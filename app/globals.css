@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --fi-purple: #712CDC;
+  --fi-purple-light: #f5f0ff;
+  --fi-purple-border: #ece5ff;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  body {
+    color: #111827;
+    background-color: #f8f9fc;
+    font-family: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Force all interactive inputs, buttons, and selects to inherit the same typeface */
+  button,
+  input,
+  optgroup,
+  select,
+  textarea {
+    font-family: inherit;
+  }
+}
+
+/* Hide scrollbar for category pills and carousels while keeping scrollability */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth tap highlight for mobile feel */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
