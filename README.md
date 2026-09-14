@@ -273,4 +273,4 @@ npm run start
 
 **Raj Gupta**
 - **GitHub:** [@RajGuptaVips2025](https://github.com/RajGuptaVips2025)
-- **Live Demo:** [1Fi Marketplace on Vercel](https://interview1-fi.vercel.app)
+- **Live Demo:** [1Fi Marketplace on Vercel](https://1fi-market-place-sxyp.vercel.app/)
