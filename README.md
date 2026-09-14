@@ -14,7 +14,7 @@
 
 ## 🌐 Live Deployment
 
-- 🖥️ **Live Web Application (Vercel):** [https://interview1-fi.vercel.app](https://interview1-fi.vercel.app) *(or your Vercel deployment link)*
+- 🖥️ **Live Web Application (Vercel):** [https://1fi-market-place-sxyp.vercel.app/](https://1fi-market-place-sxyp.vercel.app/) *(or your Vercel deployment link)*
 - 📱 **Mobile Emulation:** Best experienced on mobile viewports or viewed centered on desktop (`max-w-[500px]` responsive shell).
 - 👤 **Instant Evaluator Access:** Zero login barriers. Navigate straight to [http://localhost:3000/shop](http://localhost:3000/shop) to explore the complete catalog and EMI checkout flow.
 
@@ -231,7 +231,7 @@ Interview1Fi/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/RajGuptaVips2025/Interview1Fi.git
+git clone https://github.com/RajGuptaVips2025/1fi-MarketPlace.git
 cd Interview1Fi
 ```
 
